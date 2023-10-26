@@ -1,0 +1,12 @@
+Documento para armazenar um breve conteudo do GitHub a repeito de o que é esta esta platafoma , sua breve hitória.
+https://github.com/
+
+🤔 o que é o GitHub?
+
+   O GitHub é uma plataforma de hospedagem de código para xontrole de versão com git, e colaboradores.
+
+📖História do GitHub (Breve)
+
+   Em 2008 esta plataforma foi desnvolvida por 4 pessoas, sendo elas, Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon.
+   Em 2018 o GitHub foi vitima de um dos ataques de DDOS(ataque distribuído de negação de serviço); Logo depois, o Github foi comprado po US $7,5 bilhões.
+

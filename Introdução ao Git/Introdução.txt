@@ -1,0 +1,15 @@
+Documento para armazenar uma breve noção do Git a repeito de onde o que é esta esse sistema, sua breve hitória e link para download.
+https://git-scm.com/
+
+🤔 o que é o Git?
+
+   O Git é um sistema de controle de versões distribuídas
+
+📖 Hitório do git (breve)
+
+   Em 2002, o projeto do núcleo(Kernel) do Linux, que é open source, começou a utilizar o BitKeeper, que nada mais é do que um DVCS(Sistema de Controle de Versão Distribuida Proprietaária) Proprietário, ou seja, de código fechado onde ele ele era utilizado apenas pela a empresa desenvolvedora. Mas após conflitos com a comunidade, o BitKeeper reside a licença gratuita. O que leva a Linus Torvalds, o xriador do Linux, e sua equipe a desenvolver sua própria ferramenta, o git.
+
+🔎 Donwload
+ 
+ https://git-scm.com/downloads
+
